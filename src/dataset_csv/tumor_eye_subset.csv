@@ -1,0 +1,91 @@
+case_id,slide_id,label,sex,age,other_translated
+2017-25141,0_4.svs,0,M,36,rightlower eyelid
+Y2022-00926,"Y2022-00926,A1-01.kfb",0,F,47,lefteyelower eyelidmass
+2017-36497,0_10.svs,0,F,58,leftupper eyelid
+2017-17601,0_0.svs,0,M,26,righteyeupper eyelidmass
+2019-12269,0_35.svs,0,F,63,righteyeupper eyelid
+Y2022-00205,"Y22-00205,A1.kfb",0,M,38,lefteyelower eyelidmass
+2018-20273,0_28.svs,0,F,49,lefteyeupper eyelid
+2017-51707,0_12.svs,0,F,70,lefteyeupper eyelid
+Y2022-00475,"Y22-00475,A1.kfb",0,M,47,righteyelower eyelidmass
+Y2023-03445,Y2023-03445A1-012023-09-04_14_48_28.kfb,0,M,34,righteyeupper eyelidmass
+2016-37176,1_30.svs,1,F,75,righteyeeyelid
+Y2023-02175,Y2023-02175A2-01.kfb,1,F,71,righteyelower eyelidmass
+Y2023-03262,Y2023-03262C1-012023-09-04_08_52_14.kfb,1,F,50,righteyelower eyelidmass
+Y2023-03105,Y2023-03105A2-02.kfb,1,M,56,lefteyelower eyelidmass
+Y2023-03369,Y2023-03369A2-012023-09-04_10_51_57.kfb,1,M,74,lefteyelower eyelidmass
+Y2023-00715,Y2023-00715A3-02.kfb,1,F,48,righteyelower eyelidmass
+2019-03394,1_45.svs,1,M,65,lefteyelower eyelid
+Y2023-01380,Y2023-01380A2-01.kfb,1,M,84,righteyelower eyelidmass
+2016-11794,1_9.svs,1,M,76,righteyelower eyelid
+Y2023-02586,Y2023-02586A1-01.kfb,1,F,66,righteyelower eyelidmass
+Y2023-02474,Y2023-02474B1-01.kfb,2,M,71,righteyeupper eyelidmass
+Y2023-01787,Y2023-01787C1-01.kfb,2,F,60,righteyeupper eyelidmass
+2019-11298,2_31.svs,2,F,79,righteyelower eyelid
+Y2023-01891,Y2023-01891A1-01.kfb,2,F,48,righteyelower eyelidmass
+Y2022-01325,Y2022-01325A5-01.kfb,2,F,66,lefteyeupper eyelid
+Y2023-00043,Y2023-00043A1-01.kfb,2,M,71,righteye mass
+Y2023-00044,Y2023-00044A4-02.kfb,2,F,68,righteyeupper eyelidmass
+Y2023-02738,Y2023-02738A1-01.kfb,2,F,72,righteyeupper eyelidmass
+Y2023-04218,Y2023-04218A1-012023-10-30_10_28_19.kfb,2,F,49,lefteyeupper eyelidmass
+2016-00738,2_12.svs,2,F,60,righteyelower eyelid
+2019-13665,3_117.svs,3,M,50,lefteyeupper eyelid
+2018-12676,3_15.svs,3,F,40,leftlower eyelid
+Y2022-00130,"Y22-00130,A1.kfb",3,F,52,lefteyelower eyelid
+2019-15751,3_128.svs,3,F,26,righteyeupper eyelid
+2017-15309,3_6.svs,3,M,47,lefteyelower eyelid
+Y2022-00132,"Y22-00132,A1.kfb",3,M,30,rightlower eyelid
+2018-09701,3_9.svs,3,F,40,righteyeupper eyelidmass
+Y2022-00907,"Y2022-00907,A1-01.kfb",3,F,54,lefteyeupper eyelidmass
+2019-13348,3_114.svs,3,F,40,rightupper eyelidtumor
+Y2022-00737,"Y2022-00737,A1-01.kfb",3,F,32,righteyelower eyelidmass
+2017-03926,4_18.svs,4,M,14,righteyelower eyelidmass
+2018-03312,4_46.svs,4,M,29,righteyeupper eyelid
+2018-03562,4_48.svs,4,M,67,lefteyelower eyelid
+Y2022-00227,"Y22-00227,A1.kfb",4,M,29,righteyeupper eyelidmass
+2016-28610,4_4.svs,4,F,66,lefteyelower eyelid
+2018-01102,4_41.svs,4,F,44,rightupper eyelid
+2018-19658,4_63.svs,4,F,38,lefteyelower eyelidmass
+Y2022-00866,"Y2022-00866,A1-01.kfb",4,M,11,righteyeupper eyelidmass
+2017-57753,4_31.svs,4,M,85,righteyelower eyelid
+2018-12175,4_56.svs,4,F,63,leftlower eyelidmass
+Y2023-02728,Y2023-02728A1-01.kfb,5,F,50,righteyelower eyelidmass
+2016-22825,5_16.svs,5,F,64,lefteyelower eyelid
+2015-20587,5_12.svs,5,M,88,righteyeupper eyelid
+Y2023-03059,Y2023-03059A2-01.kfb,5,M,80,lefteyeupper eyelidmass
+2014-24607,5_8.svs,5,F,82,righteyelower eyelid
+2014-30932,5_9.svs,5,F,90,righteyelower eyelid
+Y2023-00480,Y2023-00480A1-01.kfb,5,M,64,righteyeupper eyelidmass
+2005-20402,5_0.svs,5,M,84,lefteyelid
+Y2023-03059,Y2023-03059A2-02.kfb,5,M,80,lefteyeupper eyelidmass
+2015-43785,5_13.svs,5,F,71,righteyelid
+2016-26146,6_22.svs,6,M,55,OSupper eyelid
+2017-01413,6_0.svs,6,F,41,rightupper eyelid
+Y2023-02922,Y2023-02922A1-01.kfb,6,F,20,righteyelowerpalpebral conjunctivamass
+2017-36734,6_4.svs,6,M,18,righteyeupper eyelid mass
+Y2023-04088,Y2023-04088A1-012023-10-23_09_42_27.kfb,6,M,42,righteyeupper eyelidmass
+2018-16140,6_18.svs,6,M,76,leftupper eyelidtumor
+2018-04274,6_10.svs,6,F,46,righteyelower eyelid
+2019-08690,6_34.svs,6,F,57,leftlower eyelid
+Y2023-00921,Y2023-00921A1-01.kfb,6,F,3,righteyeupper eyelidmass
+2018-09986,6_12.svs,6,F,52,righteyeupper eyelidmass
+2018-13997,7_40.svs,7,F,19,lefteyelower eyelidtumor
+2017-47753,7_22.svs,7,F,69,leftupper eyelid
+2019-04362,7_55.svs,7,F,57,lefteyeupper eyelid
+Y2022-00070,"Y22-00070,A1.kfb",7,F,65,lefteyeupper eyelidmass
+2017-27892,7_0.svs,7,F,60,righteyelower eyelidtumor
+2017-55060,7_26.svs,7,F,67,righteyelower eyelid
+2018-13736,7_39.svs,7,F,83,leftupper eyelidmass
+Y2022-02135,Y2022-02135A1-01.kfb,7,F,68,lefteyeupper eyelidmass
+2017-10661,7_10.svs,7,M,60,rightlower eyelid
+2018-19173,7_44.svs,7,M,55,Right waist
+2011-39818,8_40.svs,8,M,18,righteyeupper eyelid
+2010-35049,8_22.svs,8,M,68,lefteye
+2013-22712,8_55.svs,8,M,81,lefteyelower eyelid
+Y2023-04808,Y2023-04808B1-012023-12-12_08_35_00.kfb,8,M,73,righteyelower eyelid mass
+2005-11512,8_0.svs,8,F,54,lefteye
+2010-37969,8_26.svs,8,M,68,righteyelid
+2011-32997,8_39.svs,8,F,75,Left orbital
+Y2023-03817,Y2023-03817B2-012023-09-25_10_45_27.kfb,8,M,77,Contents of right orbit
+2009-16289,8_10.svs,8,M,55,lefteye
+2011-40488,8_44.svs,8,F,73,righteye
